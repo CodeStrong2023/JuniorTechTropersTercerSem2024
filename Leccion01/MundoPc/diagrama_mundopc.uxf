@@ -1,0 +1,34 @@
+<diagram program="umletino" version="15.1"><zoom_level>12</zoom_level><help_text></help_text><element><id>UMLClass</id><coordinates><x>264</x><y>36</y><w>612</w><h>276</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>264</x><y>0</y><w>612</w><h>36</h></coordinates><panel_attributes>&lt;DispositivoEntrada&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>264</x><y>36</y><w>612</w><h>276</h></coordinates><panel_attributes>-
+#tipoEntrada: String
+
+#marca: String
+
+--
+
++_str_0
+
++(Agregar los métodos get/set para los atributos)
+
+--
+
+Responsabilidades
+
+Crear objetos de tipo Dispositivo Entrada
+
+-</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>588</x><y>300</y><w>36</w><h>204</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;150</additional_attributes></element><element><id>Relation</id><coordinates><x>276</x><y>456</y><w>648</w><h>60</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;20;520;20</additional_attributes></element><element><id>Relation</id><coordinates><x>276</x><y>468</y><w>36</w><h>108</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;70;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>168</x><y>552</y><w>252</w><h>36</h></coordinates><panel_attributes>&lt;Raton&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>168</x><y>588</y><w>252</w><h>228</h></coordinates><panel_attributes>-
++contadorRatones = int&lt;Static&gt;
+
+-idRaton = int
+
+--
+
++_str_0
+
+--
+
+Responsabilidades
+
+-Crear objetos de tipo Raton
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
