@@ -1,4 +1,4 @@
-<diagram program="umletino" version="15.1"><zoom_level>12</zoom_level><help_text></help_text><element><id>UMLClass</id><coordinates><x>264</x><y>36</y><w>612</w><h>276</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>264</x><y>0</y><w>612</w><h>36</h></coordinates><panel_attributes>&lt;DispositivoEntrada&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>264</x><y>36</y><w>612</w><h>276</h></coordinates><panel_attributes>-
+<diagram program="umletino" version="15.1"><zoom_level>9</zoom_level><help_text></help_text><element><id>UMLClass</id><coordinates><x>1080</x><y>189</y><w>459</w><h>207</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1080</x><y>162</y><w>459</w><h>27</h></coordinates><panel_attributes>&lt;DispositivoEntrada&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1080</x><y>189</y><w>459</w><h>207</h></coordinates><panel_attributes>-
 #tipoEntrada: String
 
 #marca: String
@@ -15,9 +15,9 @@ Responsabilidades
 
 Crear objetos de tipo Dispositivo Entrada
 
--</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>588</x><y>300</y><w>36</w><h>204</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;150</additional_attributes></element><element><id>Relation</id><coordinates><x>276</x><y>456</y><w>648</w><h>60</h></coordinates><panel_attributes>
-</panel_attributes><additional_attributes>10;20;520;20</additional_attributes></element><element><id>Relation</id><coordinates><x>276</x><y>468</y><w>36</w><h>108</h></coordinates><panel_attributes>
-</panel_attributes><additional_attributes>10;70;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>168</x><y>552</y><w>252</w><h>36</h></coordinates><panel_attributes>&lt;Raton&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>168</x><y>588</y><w>252</w><h>228</h></coordinates><panel_attributes>-
+-</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>1323</x><y>387</y><w>27</w><h>153</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;150</additional_attributes></element><element><id>Relation</id><coordinates><x>1089</x><y>504</y><w>486</w><h>45</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;20;520;20</additional_attributes></element><element><id>Relation</id><coordinates><x>1089</x><y>513</y><w>27</w><h>81</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;70;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>1008</x><y>576</y><w>189</w><h>27</h></coordinates><panel_attributes>&lt;Raton&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1008</x><y>603</y><w>189</w><h>171</h></coordinates><panel_attributes>-
 +contadorRatones = int&lt;Static&gt;
 
 -idRaton = int
@@ -31,4 +31,29 @@ Crear objetos de tipo Dispositivo Entrada
 Responsabilidades
 
 -Crear objetos de tipo Raton
-</panel_attributes><additional_attributes></additional_attributes></element></diagram>
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>1458</x><y>576</y><w>189</w><h>117</h></coordinates><panel_attributes>&lt;Teclado&gt;
+--
++contadorTeclados: int &lt;Static&gt;
+-idTeclado: int
+--
++_str_()
+--
+Responsabilidades
+-- Crear objetos de tipo Teclado</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>1548</x><y>513</y><w>27</w><h>81</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;70;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>1548</x><y>684</y><w>27</w><h>144</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;140;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>918</x><y>792</y><w>657</w><h>45</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;20;710;20</additional_attributes></element><element><id>Relation</id><coordinates><x>1089</x><y>765</y><w>27</w><h>63</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;50;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>918</x><y>414</y><w>27</w><h>414</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;440;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>585</x><y>405</y><w>360</w><h>45</h></coordinates><panel_attributes>
+</panel_attributes><additional_attributes>10;20;380;20</additional_attributes></element><element><id>Text</id><coordinates><x>720</x><y>396</y><w>63</w><h>27</h></coordinates><panel_attributes>&lt;agregar&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>585</x><y>360</y><w>27</w><h>243</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;250</additional_attributes></element><element><id>UMLClass</id><coordinates><x>468</x><y>585</y><w>252</w><h>153</h></coordinates><panel_attributes>&lt;Monitor&gt;
+--
++contadorMonitores: int &lt;static&gt;
+-idMonitor: int
+-marca: String
+-tamaño: String
+--
++_str_()
++(Agregar los métodos get/set de cada atributo
+--
+Responsabilidades
+-- Crear objeto de tipo Monitor</panel_attributes><additional_attributes></additional_attributes></element></diagram>
