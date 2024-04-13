@@ -23,7 +23,7 @@ public class Orden {
     }
 
     // Mostar orden
-    public void muestraOrden() {
+    public void mostrarOrden() {
         System.out.println("Orden #: " + this.idOrden);
         System.out.println("Computadoras de la orden #:" + this.idOrden);
         for (int i = 0; i < this.contadorComputadora; i++) {
