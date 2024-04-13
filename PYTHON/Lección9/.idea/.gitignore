@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignorar archivos .pyc (archivos de bytecode de Python)
+*.pyc
+
+# Ignorar el directorio de entorno virtual (por ejemplo, si usas virtualenv o venv)
+venv/
