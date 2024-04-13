@@ -17,6 +17,19 @@ public class Orden {
     public void agregarComputadora(Computadora computadora) {
         if (this.contadorComputadora < Orden.MAX_CUMPUTADORAS) {
             this.computadora[this.contadorComputadora++] = computadora;
+        } else {
+            System.out.println("Has superado el limite" + Orden.MAX_CUMPUTADORAS);
         }
     }
-}
+
+    // Mostar orden
+    public void muestraOrden() {
+        System.out.println("Orden #: " + this.idOrden);
+        System.out.println("Computadoras de la orden #:" + this.idOrden);
+        for (int i = 0; i < this.contadorComputadora; i++) {
+            System.out.println(this.computadora[i]);
+        
+        }
+    }   
+ }   
+    
