@@ -8,8 +8,8 @@ public class TestArgumentosVariables {
     }
 
     private static void variosParametros(String nombre, String apellido, int... numeros) {
-        System.out.println("Nombre: " + nombre);
-        System.out.println("Apellido: " + apellido);
+        //System.out.println("Nombre: " + nombre);
+        //System.out.println("Apellido: " + apellido);
         System.out.println("Nombre: " + nombre + " Apellido: " + apellido);
         imprimirNumeros(numeros);
     }
