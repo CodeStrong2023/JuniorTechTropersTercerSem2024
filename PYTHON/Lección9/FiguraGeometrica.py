@@ -1,13 +1,17 @@
 class FiguraGeometrica:
     def __init__(self, ancho, alto):
-        if 0 < ancho < 10:
+        if self._validar_valores(ancho):
             self._ancho = ancho
         else:
             self.ancho = 0
-        if 0 < alto < 10:
+            print(f' Valor erroneo para el ancho: {ancho}')
+
+        if self._validar_valores(alto):
             self._alto = alto
         else:
             self.alto = 0
+            print(f'Valor erroneo para el alto: {alto}')
+
 
 
     @property
@@ -16,7 +20,8 @@ class FiguraGeometrica:
 
     @ancho.setter
     def ancho(self, ancho):
-        self._ancho = ancho
+        if self._validar_valores(ancho):
+            self._ancho = ancho
 
     @property
     def alto(self):
@@ -24,7 +29,12 @@ class FiguraGeometrica:
 
     @alto.setter
     def alto(self, alto):
-        self._alto = alto
+        if self._validar_valores(alto):
+            self._alto = alto
 
     def __str__(self):
         return f'FiguraGeometrica [Ancho: {self._ancho} , Alto: {self._alto}'
+
+
+    def _validar_valores(self, valor): #Metodo encapsulado
+        return True if 0 < valor < 10 else False
