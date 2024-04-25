@@ -13,3 +13,8 @@ print(miCalse1.variable_clase)
 miCalse2= MiClase('Esta es otra prueba de variable de instancia')
 print(miCalse2.variable_instancia)
 print(miCalse2.variable_clase)
+
+MiClase.variable_clase2 = 'Valor de variable clase 2' #Creamos la var y asignamos un valor
+print(MiClase.variable_clase2) #Accedemos a los metodos de la Clase usando un objeto
+print(miClase1.variable_clase2)
+print(miClase2.variable_clase2)
