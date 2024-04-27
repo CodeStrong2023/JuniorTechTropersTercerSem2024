@@ -1,14 +1,15 @@
 
-<img src="https://github.com/MarianelaPurretta/CURSO-HTML/assets/135768183/d3705b10-5562-4d6e-b7d8-1b2e407491dc" alt="junioress" width="100%" height="100%">
 
-<img src="https://github.com/MarianelaPurretta/CURSO-HTML/assets/135768183/f673c6c8-91f4-4b24-bd8d-f874258bb631" alt="WhatsApp Image 2024-04-26 at 10 41 07 PM (1)" width="49%" height="49%">
-<img src="https://github.com/MarianelaPurretta/CURSO-HTML/assets/135768183/f70ccbf6-c9b4-40bf-9638-7d0b60216ca1" alt="WhatsApp Image 2024-04-26 at 10 41 06 PM (2)" width="49%" height="49%">
-<img src="https://github.com/MarianelaPurretta/CURSO-HTML/assets/135768183/3c05346b-fb9f-4001-986d-0f78658c6e92" alt="WhatsApp Image 2024-04-26 at 10 41 07 PM" width="49%" height="49%">
-<img src="https://github.com/MarianelaPurretta/CURSO-HTML/assets/135768183/b0cf7056-e5dc-43ed-91da-9a6879c2d129" alt="WhatsApp Image 2024-04-26 at 10 41 06 PM (1)" width="49%" height="49%">
-<img src="https://github.com/MarianelaPurretta/CURSO-HTML/assets/135768183/4259ecee-1857-4055-9696-afcca997ab7e" alt="WhatsApp Image 2024-04-26 at 10 41 07 PM (2)" width="49%" height="49%">
-<img src="https://github.com/MarianelaPurretta/CURSO-HTML/assets/135768183/12457cc9-2d6c-4d56-9b49-c21da06c6414" alt="WhatsApp Image 2024-04-26 at 10 41 05 PM" width="49%" height="49%">
-<img src="https://github.com/MarianelaPurretta/CURSO-HTML/assets/135768183/a8ec87d5-4c51-4d2b-8985-940ea874e047" alt="WhatsApp Image 2024-04-26 at 10 41 06 PM" width="49%" height="49%">
-<img src="https://github.com/MarianelaPurretta/CURSO-HTML/assets/135768183/da301c0e-d949-4d4d-be9d-3f00e8254168" alt="PNG NOMBRES-LEGAJOS" width="50%" height="50%">
+<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/junioressCopy.png?raw=true" width="100%" height="100%">
+
+<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.07%20PM%20(1).jpeg?raw=true" width="40%" height="40%">
+<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.06%20PM%20(2).jpeg?raw=true" width="40%" height="40%">
+<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.07%20PM.jpeg?raw=true" width="49%" height="49%">
+<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.06%20PM%20(1).jpeg?raw=true" width="49%" height="49%">
+<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.07%20PM%20(2).jpeg?raw=true" width="49%" height="49%">
+<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.05%20PM.jpeg?raw=true" width="49%" height="49%">
+<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.06%20PM.jpeg?raw=true" width="49%" height="49%">
+
 
 
 <h1 align="center">TERCER SEMESTRE</h1>
