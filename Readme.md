@@ -2,8 +2,7 @@
 
 <img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/junioressCopy.png?raw=true" width="100%" height="100%">
 
-<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.07%20PM%20(1).jpeg?raw=true" width="40%" height="40%">
-<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.06%20PM%20(2).jpeg?raw=true" width="40%" height="40%">
+<img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.07%20PM%20(1).jpeg?raw=true" width="40%" height="40%"> <img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.06%20PM%20(2).jpeg?raw=true" width="40%" height="40%">
 <img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.07%20PM.jpeg?raw=true" width="49%" height="49%">
 <img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.06%20PM%20(1).jpeg?raw=true" width="49%" height="49%">
 <img src="https://github.com/CodeStrong2023/JuniorTechTropersTercerSem2024/blob/main/images/WhatsApp%20Image%202024-04-26%20at%2010.41.07%20PM%20(2).jpeg?raw=true" width="49%" height="49%">
