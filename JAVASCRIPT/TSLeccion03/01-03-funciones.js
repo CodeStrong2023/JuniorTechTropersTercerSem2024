@@ -7,7 +7,7 @@ function miFuncion(a, b){
 //Llamando la funcion
 miFuncion(5, 4);
 
-Let resultado = miFuncion(6, 7);
+let resultado = miFuncion(6, 7);
 console.log(resultado);
 
 
@@ -22,3 +22,19 @@ console.log(resultado);
     console.log('Ejecutando la funcion: ' + (a + b));
 })(9, 6); // se llama a sí misma con parámetros y con argumentos, por unica vez
 
+
+console.log(typeof miFuncion);
+function miFuncionDos(a, b){
+    console.log(arguments.lenght);
+}
+
+miFuncionDos(5, 7, 3, 6);
+
+//toString
+var miFuncionTexto = miFuncionDos.toString();
+console.log(miFuncionTexto);
+
+//Funciones flecha
+const sumarFuncionFlecha = (a, b) => a + b;
+resultado = sumarFuncionFlecha(3,7); //Asignamos el valor a una variable
+console.log(resultado);
