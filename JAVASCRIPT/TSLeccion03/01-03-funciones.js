@@ -61,3 +61,11 @@ function sumarTodo() {
   }
   return suma;
 }
+
+//Tipos primitivos
+let k = 10;
+function camviarValor(a){ //Paso por valor
+    a = 20;
+}
+
+camviarValor(k);
