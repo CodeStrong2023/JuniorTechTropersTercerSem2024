@@ -12,3 +12,4 @@ persona2 = Persona("Franco ", 5)
 # persona1.__add__(persona2)  SINTAXIS INTERNA Y AUTOMATICA
 
 print(persona1 + persona2)
+print(persona1 - persona2)
