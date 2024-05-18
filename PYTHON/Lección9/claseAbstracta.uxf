@@ -1,0 +1,24 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>480</x><y>120</y><w>210</w><h>80</h></coordinates><panel_attributes>&lt;&lt;FiguraGeometrica&gt;&gt;
+--
+-alto
+-ancho
+--
++area()&lt;abstracto&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>930</x><y>120</y><w>210</w><h>70</h></coordinates><panel_attributes>&lt;&lt;Color&gt;&gt;
+--
++color-</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>480</x><y>400</y><w>210</w><h>50</h></coordinates><panel_attributes>&lt;&lt;Cuadrado&gt;&gt;
+--
++area()&lt;&lt;implementacion&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>930</x><y>400</y><w>210</w><h>50</h></coordinates><panel_attributes>&lt;&lt;Rectangulo&gt;&gt;
+--
++area()&lt;&lt;implementacion&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>480</x><y>180</y><w>470</w><h>240</h></coordinates><panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;220;450;10</additional_attributes></element><element><id>Relation</id><coordinates><x>680</x><y>190</y><w>470</w><h>230</h></coordinates><panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;10;450;210</additional_attributes></element><element><id>Relation</id><coordinates><x>1120</x><y>190</y><w>90</w><h>230</h></coordinates><panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;10;10;210</additional_attributes></element><element><id>Relation</id><coordinates><x>480</x><y>190</y><w>90</w><h>230</h></coordinates><panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;10;10;210</additional_attributes></element><element><id>UMLNote</id><coordinates><x>690</x><y>480</y><w>260</w><h>150</h></coordinates><panel_attributes>UNA VEZ QUE SE COLOCA EL MÉTODO 
+ABSTRACTO EN LA CLASE PADRE
+ ES OBLIGATORIO QUE CADA CLASE 
+HIJA DEBA IMPLEMENTARLO.
+ESTO GENERA QUE TRODA LA CLASE PADRE
+ SE CONVIERTA EN UNA CLASE ABSTRACTA
+ Y YA NO SEPODRÁN CREAR INSTANCIAS 
+DE ESTA CLASE
+bg=blue</panel_attributes><additional_attributes></additional_attributes></element></diagram>
